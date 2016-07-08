@@ -11,7 +11,8 @@ will need
 
  - Android Studio (<a href="https://developer.android.com/studio/install.html" 
 target="_new">Installing Android Studio</a>)
- - An Android phone or an Android phone emulator launched from Android Studio
+ - An Android phone or tablet, or an Android phone or tablet emulator launched 
+from Android Studio
 
 ## Getting Started
 First download this project using the <b>Clone or Download</b> button, either by 
